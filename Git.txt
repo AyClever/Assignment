@@ -16,10 +16,16 @@ Step 3(Push to git Repository)
    -The Git Add .: The git add is a command, which adds changes in the working directory to the staging area. 
     With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.e.g
 	C:\Users\AYO\Desktop\Assignment>git add .
+   -For First Time User Only
+   -The git config --global user.email "youremail@gmail.com" 
+   -The git config --global user.name "your name" e.g
 
-	C:\Users\AYO\Desktop\Assignment>
+	C:\Users\AYO\Desktop\Assignment>git config --global user.email "fayoseayomipo170@gmail.com"
+        C:\Users\AYO\Desktop\Assignment>git config --global user.name "AyClever"
+   	
    -The git commit -am "Initial Explain": The git commit -am command is used to tell Git to save your changes to the local repository.e.g
 	C:\Users\AYO\Desktop\Assignment>git commit -am "Initial Explain"
+   
 Step 4(Puch to Github)
 	
    -Login to your github account on your web browser and create a new respository or choose and existing respository
@@ -27,6 +33,13 @@ Step 4(Puch to Github)
    -strool down the page and click on create respository
    -Copy the remote respository link and paste it in the cmd  md press enter
 Step 5
+   -For first time user 
+   -After loading the remote respository a window will come up for u to login to your github account
+     Enter your Username
+     Enter your Password
+     Press login to login to your account 
+     Go back to the cmd to and wait for it to load
+Step 6
    -Go back to the github on your web browser and refreash
 Stepr 6
    End
