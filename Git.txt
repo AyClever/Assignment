@@ -1,0 +1,32 @@
+Step 1
+  Create a Github Account
+
+Step 2
+  Download Git 
+
+Step 3(Push to git Repository)
+  -Open your cmd(command prompt) 
+  -On the cmd Change the cmd directory to your project folder e.g
+  	C:\Users\AYO>cd C:\Users\AYO\Desktop\Assignment
+  	Result:
+  	C:\Users\AYO\Desktop\Assignment> 
+   -The git init: The git init command is use to create a new git repository folder or use an existing one e.g
+	C:\Users\AYO\Desktop\Assignment>git init
+	Initialized empty Git repository in C:/Users/AYO/Desktop/Assignment/.git/
+   -The Git Add .: The git add is a command, which adds changes in the working directory to the staging area. 
+    With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.e.g
+	C:\Users\AYO\Desktop\Assignment>git add .
+
+	C:\Users\AYO\Desktop\Assignment>
+   -The git commit -am "Initial Explain": The git commit -am command is used to tell Git to save your changes to the local repository.e.g
+	C:\Users\AYO\Desktop\Assignment>git commit -am "Initial Explain"
+Step 4(Puch to Github)
+	
+   -Login to your github account on your web browser and create a new respository or choose and existing respository
+   -Give a unique name of the respository 
+   -strool down the page and click on create respository
+   -Copy the remote respository link and paste it in the cmd  md press enter
+Step 5
+   -Go back to the github on your web browser and refreash
+Stepr 6
+   End
